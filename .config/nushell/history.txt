@@ -2,3 +2,13 @@ mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
 cd `obsidian42/99 Meta/<\n><\n>`
 path reminders.md
 help path
+cd .config
+yadm diff
+yay -S less
+yadm diff
+vim
+cd nushell/
+vim env.nu
+yadm commit -a -m "added stuff to env.nu"
+git config --global user.email "no"
+git config --global user.name "zie"
