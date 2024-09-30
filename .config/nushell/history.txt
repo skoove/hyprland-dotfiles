@@ -12,3 +12,17 @@ vim env.nu
 yadm commit -a -m "added stuff to env.nu"
 git config --global user.email "no"
 git config --global user.name "zie"
+yadm commit -a -m "added stuff to env.nu"
+git push
+yadm push
+ssh-keygen
+cat ~/.ssh/id_ed25519.pub
+yadm push
+yadm remote set-url origin git@github.com:skoove/hyprland-dotfiles.git
+yadm push
+cd ..
+ls
+cd ..
+ls
+ls -a
+yadm add .gitconfig
