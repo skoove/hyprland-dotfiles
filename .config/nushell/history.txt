@@ -26,3 +26,29 @@ cd ..
 ls
 ls -a
 yadm add .gitconfig
+yadm commit -a -m "added gitconfig fodler"
+yadm push
+shutdown now
+ncmli
+nmcli
+nmmcli
+nmcli
+ls .config
+wallpaper.png
+cd hypr
+cd ~/.config/hypr/
+ls
+yadm status
+upower
+upower -d
+upower -i
+acpci
+apci
+acpi
+yay -S hyprpaper
+yay -S hyprshot
+shutdown now
+cd .config/hypr
+yadm status
+yadm add hypr
+yadm add ~/.config/hypr
