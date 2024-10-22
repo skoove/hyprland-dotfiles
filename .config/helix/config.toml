@@ -2,7 +2,6 @@ theme = "catppuccin-mocha"
 
 [editor]
 line-number = "relative"
-mouse = "false"
 
 [editor.indent-guides]
 render = true
