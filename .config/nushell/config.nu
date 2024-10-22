@@ -2,6 +2,9 @@
 #
 # version = "0.98.0"
 
+# alias
+alias hx = helix
+
 # For more information on defining custom themes, see
 # https://www.nushell.sh/book/coloring_and_theming.html
 # And here is the theme collection
