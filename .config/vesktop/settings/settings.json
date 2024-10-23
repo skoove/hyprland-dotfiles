@@ -393,13 +393,6 @@
         "PreviewMessage": {
             "enabled": true
         },
-        "PronounDB": {
-            "enabled": true,
-            "showInMessages": true,
-            "showSelf": true,
-            "pronounSource": 0,
-            "showInProfile": true
-        },
         "QuickMention": {
             "enabled": false
         },
@@ -618,6 +611,19 @@
         },
         "SupportHelper": {
             "enabled": true
+        },
+        "UserMessagesPronouns": {
+            "enabled": true,
+            "showInMessages": true,
+            "showSelf": true,
+            "pronounSource": 0,
+            "showInProfile": true
+        },
+        "DynamicImageModalAPI": {
+            "enabled": true
+        },
+        "FixImagesQuality": {
+            "enabled": false
         }
     },
     "notifications": {
@@ -630,6 +636,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1728538877891
+        "settingsSyncVersion": 1729673096945
     }
 }
