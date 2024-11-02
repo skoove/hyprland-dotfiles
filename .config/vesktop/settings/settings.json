@@ -471,7 +471,7 @@
             "enabled": false
         },
         "ShowHiddenThings": {
-            "enabled": false
+            "enabled": true
         },
         "ShowMeYourName": {
             "enabled": true,
@@ -617,7 +617,8 @@
             "showInMessages": true,
             "showSelf": true,
             "pronounSource": 0,
-            "showInProfile": true
+            "showInProfile": true,
+            "pronounsFormat": "LOWERCASE"
         },
         "DynamicImageModalAPI": {
             "enabled": true
@@ -636,6 +637,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1729673096945
+        "settingsSyncVersion": 1729982644440
     }
 }
