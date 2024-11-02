@@ -899,6 +899,8 @@ $env.config = {
         }
     ]
 }
+fastfetch
+printf '\n'
 
 printf 'reminders:\n'
 cat `/home/zie/obsidian42/99 Meta/reminders.md`
