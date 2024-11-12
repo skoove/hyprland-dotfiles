@@ -15,12 +15,20 @@
         "battery",
         "pulseaudio",
         "pulseaudio#microphone",
+        "custom/sep",
+        "tray",
+        "custom/sep",
         "clock",
         "clock#date",
         "custom/sep",
-        "tray",
+        "custom/swaync"
     ],
 
+
+    "custom/swaync": {
+        "format": "",
+        "on-click": "swaync-client -t"
+    },
     
     "custom/screen-recorder": {
         "exec": "~/.config/waybar/modules/screen_recorder_init.sh",
