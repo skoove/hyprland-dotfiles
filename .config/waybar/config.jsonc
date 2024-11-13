@@ -7,7 +7,7 @@
     "passthrough": false,
     "fixed-center": true,
 
-    "modules-left": ["hyprland/workspaces", "custom/sep", "hyprland/window"],
+    "modules-left": ["custom/logo", "hyprland/workspaces", "custom/sep", "hyprland/window"],
     "modules-center": ["custom/music-player"],
     "modules-right": [
         // "custom/screen-recorder",
@@ -23,6 +23,10 @@
         "custom/sep",
         "custom/swaync"
     ],
+
+    "custom/logo": {
+        "format": "󰣇",
+    },
 
 
     "custom/swaync": {
