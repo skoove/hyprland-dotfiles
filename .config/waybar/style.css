@@ -57,7 +57,13 @@ window#waybar.hidden {
     color: black;
 }
 
+#custom-swaync {
+    color: #b4befe;
+    padding: 1px;
+}
+
 #battery,
+#workspaces button,
 #custom-swaync,
 #clock,
 #pulseaudio,
@@ -70,7 +76,10 @@ window#waybar.hidden {
 #window,
 #custom-screen-recorder,
 #custom-gpu {
-    min-height: 0;
+    /* border: 2pt; */
+    /* border-style: solid; */
+    /* border-color: #b4befe; */
+    min-height: 0pt;
     padding: 2px 10px;
     border-radius: 8px;
     margin: 4px 4px;

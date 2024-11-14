@@ -3,6 +3,7 @@
     "position": "top",
     "height": 36,
     "spacing": 4,
+    "margin": 2,
     "exclusive": true,
     "passthrough": false,
     "fixed-center": true,
@@ -20,7 +21,7 @@
     ],
 
     "custom/logo": {
-        "format": " ",
+        "format": "󰣇",
     },
 
 
