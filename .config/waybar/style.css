@@ -51,6 +51,12 @@ window#waybar.hidden {
     background-color: #f38ba8;
 }
 
+#custom-logo {
+    background-image: url("/home/zie/.config/flag.png");
+    background-size: cover;
+    color: black;
+}
+
 #battery,
 #custom-swaync,
 #clock,
@@ -143,10 +149,6 @@ window#waybar.empty #window {
 
 #pulseaudio.muted {
     color: #a6adc8;
-}
-
-#custom-logo {
-    color: #89b4fa;
 }
 
 #custom-power {
