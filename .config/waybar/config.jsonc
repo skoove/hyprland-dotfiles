@@ -7,20 +7,15 @@
     "passthrough": false,
     "fixed-center": true,
 
-    "modules-left": ["custom/logo", "hyprland/workspaces", "custom/sep", "hyprland/window"],
+    "modules-left": ["custom/logo", "hyprland/workspaces",  "hyprland/window"],
     "modules-center": ["custom/music-player"],
     "modules-right": [
-        // "custom/screen-recorder",
-        // "custom/sep",
         "battery",
         "pulseaudio",
         "pulseaudio#microphone",
-        "custom/sep",
         "tray",
-        "custom/sep",
         "clock",
         "clock#date",
-        "custom/sep",
         "custom/swaync"
     ],
 
