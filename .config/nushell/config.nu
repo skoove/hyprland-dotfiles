@@ -4,6 +4,8 @@
 
 # alias
 alias hx = helix
+alias cdd = cd ( tv dirs )
+alias cdg = cd ( tv git-repos )
 
 # For more information on defining custom themes, see
 # https://www.nushell.sh/book/coloring_and_theming.html
