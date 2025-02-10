@@ -1,3 +1,6 @@
 [user]
 	email = 53106860+skoove@users.noreply.github.com
 	name = skoove
+[core]
+	autocrlf = false
+	editor = helix

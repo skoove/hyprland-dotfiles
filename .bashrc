@@ -18,3 +18,6 @@ PERL_MM_OPT="INSTALL_BASE=/home/zie/perl5"; export PERL_MM_OPT;
 
 
 eval "$(starship init bash)"
+
+# Created by `pipx` on 2025-02-05 02:46:21
+export PATH="$PATH:/home/zie/.local/bin"
