@@ -3,7 +3,7 @@
     "position": "top",
     "height": 36,
     "spacing": 4,
-    "margin": 2,
+    "margin": 0,
     "exclusive": true,
     "passthrough": false,
     "fixed-center": true,
