@@ -1,3 +1,5 @@
+[include]
+	path = ~/.config/delta/themes/catppuccin.gitconfig
 [user]
 	email = 53106860+skoove@users.noreply.github.com
 	name = skoove
@@ -12,6 +14,7 @@
 [delta]
     navigate = true  # use n and N to move between diff sections
     dark = true      # or light = true, or omit for auto-detection
+	features = catppuccin-mocha
 
 [merge]
     conflictstyle = zdiff3
